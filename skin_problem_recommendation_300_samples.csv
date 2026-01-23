@@ -1,0 +1,301 @@
+S.No,Gender,Age_Group,Skin_Type,Skin_Concern,Recommended_Products
+1,Male,21-25,Dry,Sensitivity,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+2,Male,26-30,Normal,Pigmentation,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+3,Female,Above 35,Dry,Dullness,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+4,Female,21-25,Sensitive,Dryness,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+5,Female,21-25,Combination,Pigmentation,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+6,Female,31-35,Dry,Dryness,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+7,Male,15-20,Oily,Dullness,Salicylic Face Wash | Niacinamide Serum | Gel Moisturizer
+8,Female,26-30,Combination,Pigmentation,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+9,Female,15-20,Oily,Pigmentation,Salicylic Face Wash | Niacinamide Serum | Gel Moisturizer
+10,Female,26-30,Normal,Acne,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+11,Male,26-30,Combination,Pigmentation,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+12,Female,Above 35,Dry,Dullness,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+13,Male,31-35,Oily,Dullness,Salicylic Face Wash | Niacinamide Serum | Gel Moisturizer
+14,Male,26-30,Combination,Dullness,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+15,Female,26-30,Combination,Oiliness,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+16,Female,15-20,Dry,Darkness,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+17,Female,Above 35,Normal,Oiliness,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+18,Female,Above 35,Sensitive,Dryness,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+19,Male,15-20,Sensitive,Acne,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+20,Female,21-25,Sensitive,Dryness,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+21,Female,26-30,Dry,Oiliness,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+22,Female,Above 35,Combination,Dullness,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+23,Female,Above 35,Oily,Dryness,Salicylic Face Wash | Niacinamide Serum | Gel Moisturizer
+24,Male,Above 35,Normal,Pigmentation,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+25,Female,21-25,Sensitive,Dullness,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+26,Female,21-25,Combination,Pigmentation,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+27,Female,21-25,Dry,Dryness,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+28,Male,31-35,Sensitive,Dullness,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+29,Male,26-30,Dry,Dryness,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+30,Male,Above 35,Sensitive,Oiliness,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+31,Male,31-35,Combination,Dryness,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+32,Female,26-30,Dry,Acne,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+33,Male,15-20,Oily,Pigmentation,Salicylic Face Wash | Niacinamide Serum | Gel Moisturizer
+34,Male,26-30,Dry,Pigmentation,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+35,Female,15-20,Oily,Pigmentation,Salicylic Face Wash | Niacinamide Serum | Gel Moisturizer
+36,Male,15-20,Dry,Sensitivity,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+37,Female,26-30,Combination,Oiliness,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+38,Female,26-30,Sensitive,Darkness,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+39,Male,26-30,Dry,Dryness,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+40,Female,26-30,Combination,Oiliness,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+41,Male,15-20,Dry,Darkness,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+42,Male,15-20,Normal,Acne,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+43,Female,21-25,Sensitive,Pigmentation,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+44,Male,31-35,Normal,Oiliness,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+45,Female,15-20,Sensitive,Oiliness,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+46,Female,26-30,Combination,Oiliness,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+47,Male,15-20,Oily,Oiliness,Salicylic Face Wash | Niacinamide Serum | Gel Moisturizer
+48,Male,15-20,Sensitive,Pigmentation,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+49,Female,26-30,Combination,Sensitivity,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+50,Male,31-35,Dry,Pigmentation,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+51,Female,26-30,Sensitive,Oiliness,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+52,Male,26-30,Oily,Pigmentation,Salicylic Face Wash | Niacinamide Serum | Gel Moisturizer
+53,Female,15-20,Combination,Darkness,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+54,Male,26-30,Dry,Darkness,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+55,Female,Above 35,Oily,Darkness,Salicylic Face Wash | Niacinamide Serum | Gel Moisturizer
+56,Male,15-20,Normal,Darkness,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+57,Male,26-30,Combination,Darkness,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+58,Male,15-20,Sensitive,Darkness,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+59,Female,15-20,Sensitive,Dryness,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+60,Male,26-30,Dry,Dullness,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+61,Female,15-20,Sensitive,Dullness,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+62,Male,31-35,Normal,Dullness,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+63,Female,26-30,Dry,Dullness,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+64,Female,31-35,Oily,Sensitivity,Salicylic Face Wash | Niacinamide Serum | Gel Moisturizer
+65,Male,Above 35,Combination,Oiliness,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+66,Male,26-30,Normal,Sensitivity,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+67,Male,21-25,Sensitive,Sensitivity,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+68,Female,15-20,Combination,Sensitivity,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+69,Male,15-20,Oily,Darkness,Salicylic Face Wash | Niacinamide Serum | Gel Moisturizer
+70,Male,15-20,Dry,Acne,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+71,Female,Above 35,Combination,Pigmentation,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+72,Male,21-25,Normal,Sensitivity,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+73,Female,21-25,Sensitive,Sensitivity,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+74,Male,26-30,Combination,Sensitivity,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+75,Female,21-25,Dry,Pigmentation,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+76,Male,21-25,Normal,Acne,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+77,Female,26-30,Combination,Dullness,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+78,Male,26-30,Normal,Darkness,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+79,Female,Above 35,Dry,Oiliness,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+80,Male,15-20,Normal,Pigmentation,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+81,Male,26-30,Oily,Sensitivity,Salicylic Face Wash | Niacinamide Serum | Gel Moisturizer
+82,Male,31-35,Sensitive,Sensitivity,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+83,Female,Above 35,Sensitive,Darkness,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+84,Male,15-20,Dry,Darkness,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+85,Female,21-25,Combination,Oiliness,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+86,Female,15-20,Normal,Acne,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+87,Female,21-25,Sensitive,Pigmentation,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+88,Male,Above 35,Dry,Acne,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+89,Female,26-30,Combination,Pigmentation,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+90,Female,Above 35,Oily,Darkness,Salicylic Face Wash | Niacinamide Serum | Gel Moisturizer
+91,Female,Above 35,Sensitive,Dryness,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+92,Female,Above 35,Sensitive,Oiliness,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+93,Female,31-35,Combination,Dullness,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+94,Female,21-25,Normal,Acne,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+95,Female,15-20,Dry,Acne,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+96,Male,26-30,Dry,Dullness,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+97,Male,21-25,Normal,Sensitivity,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+98,Male,21-25,Oily,Dryness,Salicylic Face Wash | Niacinamide Serum | Gel Moisturizer
+99,Female,21-25,Sensitive,Acne,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+100,Male,31-35,Normal,Dullness,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+101,Female,31-35,Combination,Sensitivity,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+102,Female,21-25,Oily,Sensitivity,Salicylic Face Wash | Niacinamide Serum | Gel Moisturizer
+103,Female,15-20,Combination,Oiliness,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+104,Male,Above 35,Dry,Acne,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+105,Male,31-35,Dry,Dryness,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+106,Male,15-20,Sensitive,Dullness,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+107,Male,31-35,Sensitive,Sensitivity,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+108,Female,31-35,Combination,Oiliness,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+109,Male,26-30,Normal,Pigmentation,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+110,Female,21-25,Oily,Dryness,Salicylic Face Wash | Niacinamide Serum | Gel Moisturizer
+111,Male,31-35,Dry,Sensitivity,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+112,Female,15-20,Dry,Acne,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+113,Male,21-25,Normal,Dullness,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+114,Male,15-20,Combination,Acne,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+115,Female,Above 35,Normal,Oiliness,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+116,Female,15-20,Oily,Pigmentation,Salicylic Face Wash | Niacinamide Serum | Gel Moisturizer
+117,Male,26-30,Dry,Dullness,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+118,Female,26-30,Sensitive,Oiliness,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+119,Female,31-35,Normal,Oiliness,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+120,Female,21-25,Sensitive,Acne,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+121,Female,15-20,Dry,Pigmentation,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+122,Male,21-25,Sensitive,Sensitivity,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+123,Male,21-25,Combination,Sensitivity,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+124,Male,15-20,Sensitive,Dryness,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+125,Female,26-30,Sensitive,Oiliness,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+126,Female,26-30,Combination,Sensitivity,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+127,Female,31-35,Oily,Sensitivity,Salicylic Face Wash | Niacinamide Serum | Gel Moisturizer
+128,Male,Above 35,Dry,Darkness,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+129,Male,31-35,Sensitive,Dryness,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+130,Male,26-30,Dry,Oiliness,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+131,Male,Above 35,Normal,Sensitivity,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+132,Male,Above 35,Combination,Oiliness,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+133,Female,21-25,Normal,Pigmentation,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+134,Female,Above 35,Oily,Dullness,Salicylic Face Wash | Niacinamide Serum | Gel Moisturizer
+135,Female,26-30,Combination,Sensitivity,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+136,Female,26-30,Normal,Dryness,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+137,Male,21-25,Combination,Sensitivity,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+138,Male,26-30,Sensitive,Darkness,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+139,Male,21-25,Combination,Darkness,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+140,Male,15-20,Combination,Sensitivity,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+141,Male,31-35,Normal,Pigmentation,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+142,Male,15-20,Dry,Sensitivity,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+143,Female,26-30,Normal,Dullness,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+144,Female,31-35,Combination,Dullness,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+145,Female,26-30,Combination,Pigmentation,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+146,Female,Above 35,Oily,Dullness,Salicylic Face Wash | Niacinamide Serum | Gel Moisturizer
+147,Female,31-35,Combination,Dullness,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+148,Female,21-25,Combination,Oiliness,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+149,Male,31-35,Sensitive,Dullness,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+150,Male,Above 35,Dry,Dryness,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+151,Male,26-30,Sensitive,Darkness,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+152,Female,31-35,Normal,Pigmentation,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+153,Male,21-25,Dry,Acne,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+154,Female,21-25,Normal,Sensitivity,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+155,Male,26-30,Combination,Sensitivity,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+156,Male,15-20,Combination,Dullness,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+157,Female,31-35,Combination,Oiliness,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+158,Female,Above 35,Normal,Darkness,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+159,Male,Above 35,Oily,Dryness,Salicylic Face Wash | Niacinamide Serum | Gel Moisturizer
+160,Female,31-35,Normal,Acne,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+161,Female,21-25,Normal,Darkness,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+162,Female,15-20,Sensitive,Darkness,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+163,Female,15-20,Sensitive,Sensitivity,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+164,Male,15-20,Oily,Dullness,Salicylic Face Wash | Niacinamide Serum | Gel Moisturizer
+165,Male,21-25,Oily,Dullness,Salicylic Face Wash | Niacinamide Serum | Gel Moisturizer
+166,Female,31-35,Combination,Sensitivity,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+167,Male,26-30,Dry,Pigmentation,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+168,Male,26-30,Normal,Dryness,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+169,Male,31-35,Normal,Oiliness,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+170,Male,Above 35,Normal,Sensitivity,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+171,Female,21-25,Normal,Dullness,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+172,Male,Above 35,Dry,Dryness,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+173,Female,26-30,Dry,Dryness,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+174,Female,26-30,Sensitive,Dullness,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+175,Male,Above 35,Normal,Darkness,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+176,Male,31-35,Dry,Oiliness,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+177,Female,26-30,Sensitive,Dryness,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+178,Male,26-30,Oily,Pigmentation,Salicylic Face Wash | Niacinamide Serum | Gel Moisturizer
+179,Female,31-35,Sensitive,Darkness,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+180,Male,Above 35,Combination,Oiliness,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+181,Male,Above 35,Sensitive,Dullness,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+182,Male,21-25,Dry,Dryness,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+183,Male,15-20,Combination,Dryness,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+184,Female,15-20,Dry,Dryness,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+185,Male,31-35,Combination,Acne,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+186,Female,15-20,Normal,Darkness,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+187,Male,Above 35,Dry,Pigmentation,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+188,Female,26-30,Normal,Dryness,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+189,Male,Above 35,Normal,Dryness,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+190,Female,26-30,Combination,Dryness,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+191,Female,Above 35,Normal,Dryness,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+192,Female,15-20,Oily,Acne,Salicylic Face Wash | Niacinamide Serum | Gel Moisturizer
+193,Female,26-30,Combination,Pigmentation,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+194,Male,31-35,Normal,Oiliness,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+195,Female,31-35,Sensitive,Acne,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+196,Female,15-20,Dry,Dullness,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+197,Female,Above 35,Dry,Acne,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+198,Female,Above 35,Normal,Acne,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+199,Male,21-25,Combination,Sensitivity,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+200,Female,15-20,Oily,Dullness,Salicylic Face Wash | Niacinamide Serum | Gel Moisturizer
+201,Male,21-25,Oily,Pigmentation,Salicylic Face Wash | Niacinamide Serum | Gel Moisturizer
+202,Female,31-35,Oily,Dryness,Salicylic Face Wash | Niacinamide Serum | Gel Moisturizer
+203,Female,Above 35,Normal,Darkness,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+204,Male,31-35,Combination,Darkness,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+205,Male,26-30,Normal,Pigmentation,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+206,Male,21-25,Dry,Sensitivity,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+207,Female,21-25,Normal,Oiliness,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+208,Male,Above 35,Dry,Dullness,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+209,Male,Above 35,Combination,Oiliness,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+210,Male,15-20,Combination,Oiliness,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+211,Male,15-20,Dry,Acne,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+212,Male,15-20,Dry,Dullness,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+213,Female,Above 35,Dry,Sensitivity,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+214,Male,21-25,Combination,Dryness,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+215,Male,15-20,Normal,Oiliness,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+216,Male,21-25,Normal,Darkness,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+217,Male,Above 35,Sensitive,Sensitivity,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+218,Female,15-20,Sensitive,Darkness,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+219,Male,21-25,Oily,Acne,Salicylic Face Wash | Niacinamide Serum | Gel Moisturizer
+220,Female,31-35,Dry,Dryness,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+221,Male,Above 35,Normal,Sensitivity,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+222,Female,21-25,Combination,Sensitivity,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+223,Female,15-20,Dry,Sensitivity,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+224,Male,31-35,Normal,Sensitivity,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+225,Male,Above 35,Dry,Sensitivity,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+226,Female,26-30,Dry,Darkness,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+227,Male,26-30,Sensitive,Dullness,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+228,Male,21-25,Normal,Pigmentation,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+229,Female,Above 35,Dry,Dryness,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+230,Female,21-25,Combination,Oiliness,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+231,Male,31-35,Normal,Acne,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+232,Male,26-30,Normal,Oiliness,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+233,Male,Above 35,Dry,Dullness,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+234,Female,31-35,Sensitive,Dryness,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+235,Female,26-30,Sensitive,Darkness,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+236,Male,15-20,Combination,Pigmentation,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+237,Male,15-20,Sensitive,Dullness,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+238,Male,21-25,Normal,Sensitivity,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+239,Female,21-25,Combination,Acne,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+240,Male,26-30,Dry,Oiliness,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+241,Male,Above 35,Sensitive,Sensitivity,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+242,Male,31-35,Combination,Pigmentation,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+243,Male,Above 35,Oily,Dullness,Salicylic Face Wash | Niacinamide Serum | Gel Moisturizer
+244,Female,31-35,Combination,Dryness,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+245,Male,26-30,Oily,Sensitivity,Salicylic Face Wash | Niacinamide Serum | Gel Moisturizer
+246,Male,31-35,Oily,Darkness,Salicylic Face Wash | Niacinamide Serum | Gel Moisturizer
+247,Male,15-20,Sensitive,Oiliness,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+248,Male,21-25,Oily,Dullness,Salicylic Face Wash | Niacinamide Serum | Gel Moisturizer
+249,Male,15-20,Sensitive,Sensitivity,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+250,Male,26-30,Combination,Dullness,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+251,Female,Above 35,Oily,Pigmentation,Salicylic Face Wash | Niacinamide Serum | Gel Moisturizer
+252,Female,Above 35,Combination,Dullness,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+253,Male,15-20,Oily,Oiliness,Salicylic Face Wash | Niacinamide Serum | Gel Moisturizer
+254,Female,26-30,Normal,Acne,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+255,Female,26-30,Oily,Dullness,Salicylic Face Wash | Niacinamide Serum | Gel Moisturizer
+256,Female,26-30,Combination,Sensitivity,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+257,Female,Above 35,Normal,Pigmentation,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+258,Female,21-25,Normal,Pigmentation,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+259,Male,Above 35,Dry,Sensitivity,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+260,Male,15-20,Combination,Oiliness,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+261,Male,31-35,Oily,Dryness,Salicylic Face Wash | Niacinamide Serum | Gel Moisturizer
+262,Male,21-25,Oily,Acne,Salicylic Face Wash | Niacinamide Serum | Gel Moisturizer
+263,Male,26-30,Oily,Sensitivity,Salicylic Face Wash | Niacinamide Serum | Gel Moisturizer
+264,Male,Above 35,Combination,Acne,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+265,Male,Above 35,Dry,Sensitivity,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+266,Male,Above 35,Oily,Sensitivity,Salicylic Face Wash | Niacinamide Serum | Gel Moisturizer
+267,Female,Above 35,Dry,Acne,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+268,Female,15-20,Dry,Dullness,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+269,Female,31-35,Sensitive,Acne,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+270,Female,31-35,Combination,Dryness,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+271,Male,31-35,Combination,Darkness,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+272,Male,Above 35,Dry,Dullness,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+273,Female,15-20,Dry,Acne,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+274,Male,26-30,Sensitive,Dryness,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+275,Male,15-20,Dry,Oiliness,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+276,Female,21-25,Normal,Pigmentation,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+277,Female,Above 35,Sensitive,Pigmentation,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+278,Female,Above 35,Oily,Dullness,Salicylic Face Wash | Niacinamide Serum | Gel Moisturizer
+279,Female,21-25,Oily,Sensitivity,Salicylic Face Wash | Niacinamide Serum | Gel Moisturizer
+280,Female,21-25,Normal,Oiliness,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+281,Female,21-25,Combination,Sensitivity,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+282,Female,26-30,Combination,Oiliness,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+283,Female,Above 35,Normal,Dullness,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+284,Male,31-35,Sensitive,Acne,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+285,Male,26-30,Oily,Darkness,Salicylic Face Wash | Niacinamide Serum | Gel Moisturizer
+286,Male,21-25,Dry,Dullness,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+287,Female,26-30,Normal,Oiliness,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+288,Male,26-30,Normal,Darkness,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+289,Female,21-25,Oily,Darkness,Salicylic Face Wash | Niacinamide Serum | Gel Moisturizer
+290,Female,15-20,Combination,Oiliness,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+291,Female,26-30,Oily,Darkness,Salicylic Face Wash | Niacinamide Serum | Gel Moisturizer
+292,Female,21-25,Sensitive,Pigmentation,Gentle Cleanser | Aloe Vera Serum | Soothing Moisturizer
+293,Female,15-20,Dry,Darkness,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+294,Male,15-20,Dry,Acne,Creamy Face Wash | Hyaluronic Serum | Ceramide Moisturizer
+295,Male,21-25,Normal,Pigmentation,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+296,Male,Above 35,Combination,Dryness,Gentle Face Wash | Vitamin C Serum | Light Moisturizer
+297,Female,15-20,Normal,Oiliness,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+298,Male,15-20,Normal,Dryness,Mild Face Wash | Vitamin C Serum | Daily Moisturizer
+299,Male,31-35,Oily,Pigmentation,Salicylic Face Wash | Niacinamide Serum | Gel Moisturizer
+300,Female,26-30,Oily,Sensitivity,Salicylic Face Wash | Niacinamide Serum | Gel Moisturizer
